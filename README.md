@@ -76,11 +76,7 @@ Help property buyers, sellers, and developers make *data-driven decisions* with 
    - Applied pd.get_dummies() for one-hot encoding
 
 8. *Final Dataset*  
-   - Cleaned and prepared for clustering, visualization, and predictive modeling [Here][Here](https://github.com/user-attachments/files/25169399/clean_nigeria_housing.csv)
-(http://localhost:8888/files/AltSchool%20Africa%20KARATU24/My%20AltSchool%20Lecture%20Folder/DISU%20TAIYE%20PROJECTS/clean_nigeria_housing.csv?_xsrf=2%7Ce2b8daf1%7C3728c7bcacc6d31497f7e4ab2d2c2826%7C1752047970)
-
----
-
+   - Cleaned and prepared for clustering, visualization, and predictive modeling [Here](https://github.com/user-attachments/files/25169399/clean_nigeria_housing.csv)
 ## ❓ Exploratory Data Analysis (EDA)
 
 We explored the dataset to answer questions such as:
