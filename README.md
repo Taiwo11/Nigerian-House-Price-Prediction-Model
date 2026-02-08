@@ -8,7 +8,7 @@
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
+- [Limitations]
 
 ---
 
