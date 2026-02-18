@@ -1,5 +1,9 @@
 # 🏠 Nigerian House Price Prediction Project
 
+> ✅ This is my first ML project (v1).  
+> 🔥 For the advanced version (v2: better structure + pipeline + Streamlit deployment), see: [link-to-v2-repo]
+
+
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
